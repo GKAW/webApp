@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GKAW/webApp/static/css/main.2cff911f.chunk.css",
+    "main.js": "/GKAW/webApp/static/js/main.476046a1.chunk.js",
+    "main.js.map": "/GKAW/webApp/static/js/main.476046a1.chunk.js.map",
+    "runtime-main.js": "/GKAW/webApp/static/js/runtime-main.78169fc4.js",
+    "runtime-main.js.map": "/GKAW/webApp/static/js/runtime-main.78169fc4.js.map",
+    "static/js/2.6df69b3e.chunk.js": "/GKAW/webApp/static/js/2.6df69b3e.chunk.js",
+    "static/js/2.6df69b3e.chunk.js.map": "/GKAW/webApp/static/js/2.6df69b3e.chunk.js.map",
+    "static/js/3.0d11383f.chunk.js": "/GKAW/webApp/static/js/3.0d11383f.chunk.js",
+    "static/js/3.0d11383f.chunk.js.map": "/GKAW/webApp/static/js/3.0d11383f.chunk.js.map",
+    "index.html": "/GKAW/webApp/index.html",
+    "static/css/main.2cff911f.chunk.css.map": "/GKAW/webApp/static/css/main.2cff911f.chunk.css.map",
+    "static/js/2.6df69b3e.chunk.js.LICENSE.txt": "/GKAW/webApp/static/js/2.6df69b3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78169fc4.js",
+    "static/js/2.6df69b3e.chunk.js",
+    "static/css/main.2cff911f.chunk.css",
+    "static/js/main.476046a1.chunk.js"
+  ]
+}
